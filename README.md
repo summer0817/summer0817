@@ -12,7 +12,7 @@
   </em>  
 </p>
 
-![Summer's github stats](https://github-readme-stats.vercel.app/api?username=summer0817&theme=dark&show_icons=true)
+![Summer's github stats](https://github-readme-stats.vercel.app/api?username=summer0817&theme=default&show_icons=true)
 [![Summer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=summer0817&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/summer0817)
 
 ### Contacts 📫
